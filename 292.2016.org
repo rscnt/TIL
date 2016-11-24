@@ -2,3 +2,5 @@
 ** [[https://arxiv.org/abs/1412.6216][An approach for improving the concept of Cyclomatic Complexity for Object-Oriented Programming]]
 * [[https://github.com/lyst/lightfm][lightfm - a hybrid recommendation algorithm.]]
 ** [[https://arxiv.org/abs/1507.08439][Metadata Embeddings for User and Item Cold-start Recommendations]]
+* [[https://github.com/redis/redis-rb/blob/master/lib/redis.rb#L19][Redis.current]]
+** The ruby redis client has a method to retrieve the current connection.
